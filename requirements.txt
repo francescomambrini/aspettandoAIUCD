@@ -1,1 +1,2 @@
-ipykernel
+nltk
+lxml
